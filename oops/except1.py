@@ -20,3 +20,4 @@ def divide_no():
         print("Program execution completed")
 
 divide_no()
+
