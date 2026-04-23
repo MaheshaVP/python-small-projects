@@ -1,0 +1,11 @@
+name,age,dept,salary,experience,gender,bonus,exp_level
+A,22,IT,20000.0,1,Male,2000.0,Junior
+B,25,HR,25000.0,3,Female,2500.0,Mid
+C,29,IT,30000.0,5,Male,3000.0,Mid
+D,35,Sales,29000.0,7,Female,2900.0,Senior
+E,28,HR,28000.0,2,Female,2800.0,Junior
+F,40,IT,35000.0,10,Male,3500.0,Senior
+G,30,Sales,40000.0,8,Male,4000.0,Senior
+H,29,IT,22000.0,4,Female,2200.0,Mid
+I,27,HR,29000.0,2,Female,2900.0,Junior
+J,32,Sales,32000.0,6,Male,3200.0,Mid
